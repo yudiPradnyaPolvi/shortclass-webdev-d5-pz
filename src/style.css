@@ -1,0 +1,48 @@
+.card {
+    width: 600px;
+    background-color: white;
+    padding: 40px ; 
+    border-radius: 35px;
+}
+.name {
+    font-weight: 600px;
+    font-size: 36px;
+    line-height: 21px;
+    color: black;
+    margin-bottom: 10px;
+}
+.age {
+    font-weight: 600px;
+    font-size: 20px;
+    line-height: 21px;
+    color: black;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border: 4px solid black;
+    border-radius: 50%;
+
+}
+.universitas{
+    font-weight: 600px;
+    font-size: 20px;
+    line-height: 21px;
+    color: black;
+    margin-bottom: 10px;
+}
+.hoby{
+    font-weight: 600px;
+    font-size: 36px;
+    line-height: 21px;
+    color: black;
+    margin-bottom: 10px;
+}
+.list-hoby{
+    font-weight: 600px;
+    font-size: 36px;
+    line-height: 21px;
+    color: black;
+    margin-bottom: 10px;
+    
+}
